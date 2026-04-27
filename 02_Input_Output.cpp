@@ -20,7 +20,7 @@ int main0(){
     std::printf("");
     return 0;
 }
-
+// method
 
 
 /**
