@@ -1,0 +1,1 @@
+ // std::cout << "block variable b: " << ::g << std::endl;
