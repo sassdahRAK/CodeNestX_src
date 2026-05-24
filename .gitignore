@@ -5,3 +5,11 @@
 *.app
 *.dSYM/
 
+# Ignore everything inside these folders
+Basic/*
+Struct/*
+
+# But DO NOT ignore your source code files
+!Basic/*.cpp
+!Struct/*.cpp
+!Struct/*.ts
