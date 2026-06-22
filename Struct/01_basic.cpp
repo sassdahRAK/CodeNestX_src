@@ -91,8 +91,25 @@ int my_first_function(int x){
     x = 2*x + 1;
     return x;
 }
-int main(){
+
+struct UserProfile{
+    string user_name;
+    bool img;
+    string bio;
+    int age;
+
+    // default constructor
+    UserProfile() = default;
+
+    // primary construct0r
     
+
+};
+
+int main(){
+    // "Sovanvirak Vean", -> 'Sovanvirak', 'Vean'
+    string name = "Sovanvirak Vean";
+
     int user_name; //keep 4 byte memory to my program -> gabage value       
     user_name = 123;
 
