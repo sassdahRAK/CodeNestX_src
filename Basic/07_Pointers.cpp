@@ -14,7 +14,7 @@
 #include <iostream>
 using namespace std;
 
-int array = {1000, 101001, 10100, 5434545,....};
+// int array = {1000, 101001, 10100, 5434545,....};
 
 int main(){
     int x = 10;

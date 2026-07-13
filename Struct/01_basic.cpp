@@ -50,7 +50,6 @@ struct BankAccount{
         // cout << "name" << name << endl;
         // cout << i << endl;
     }
-
 };
 /**
  * type convention 
